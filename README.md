@@ -3,6 +3,6 @@
 Leetcode Question 763 (Medium)
 
 Techniques Used in Question:
-Greedy
+Hashmap, Greedy
 
 [Link to Question](https://leetcode.com/problems/partition-labels/)
